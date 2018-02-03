@@ -1,0 +1,17 @@
+2016.10.12D15:08:37.038277000 INFO listening on port 12614
+2016.10.12D15:08:37.038453000 INFO my pid is 13600
+2016.10.12D15:08:38.048808000 INFO new connection request from dhodgins on handle 5
+2016.10.12D15:08:53.080959000 INFO new connection request from dhodgins on handle 6
+2016.10.12D15:08:53.081107000 INFO new subscription (6i;"10.20.40.53";`rdb;(,`trade)!,::)
+2016.10.12D15:08:53.394082000 WARN handle closed 5
+2016.10.12D15:08:55.096707000 INFO new connection request from dhodgins on handle 5
+2016.10.12D15:08:55.096773000 INFO end of day, next day will be:2016.10.13
+2016.10.12D15:08:55.097031000 WARN handle closed 5
+2016.10.12D15:10:11.959541000 WARN handle closed `table`handle`ip`name`filter!(`trade;-6i;"10.20.40.53";`rdb;::)
+2016.10.12D15:28:04.889760000 INFO new connection request from dhodgins on handle 5
+2016.10.12D15:28:04.942565000 INFO shutting down
+conn                                state       readQueue sendQueue
+-------------------------------------------------------------------
+"n*:12614"                          LISTEN      0         0        
+"nlocalhost:12614->localhost:56930" ESTABLISHED 0         0        
+2016.10.12D15:28:04.942696000 INFO rm /home/dhodgins/kdbrun/pid/tp.q.pid

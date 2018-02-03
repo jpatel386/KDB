@@ -1,0 +1,12 @@
+2016.10.12D15:08:37.045919000 INFO loading database /home/dhodgins/kdbrun/db
+"loading database /home/dhodgins/kdbrun/db"
+2016.10.12D15:08:37.046181000 INFO listening on port 33139
+2016.10.12D15:08:37.046365000 INFO my pid is 13614
+2016.10.12D15:08:55.242085000 INFO new connection request from dhodgins on handle 4
+2016.10.12D15:12:54.770866000 INFO new connection request from dhodgins on handle 4
+2016.10.12D15:12:54.889797000 INFO shutting down
+conn                                state       readQueue sendQueue
+-------------------------------------------------------------------
+"n*:33139"                          LISTEN      0         0        
+"nlocalhost:33139->localhost:11661" ESTABLISHED 0         0        
+2016.10.12D15:12:54.890051000 INFO rm /home/dhodgins/kdbrun/pid/hdb.q.pid
